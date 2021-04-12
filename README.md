@@ -2,7 +2,7 @@
 Be Eco es una plataforma digital que motive la enseñanza ambiental, con el propósito de obtener las capacidades y habilidades correctas para el bienestar social. Adicionalmente, promover una participación activa en la solución de obstáculos del medio ambiente.
 
 
-|  2020-08-16 :leaves:
+|  2020-04-12 :leaves:
 [Ver este proyecto en Heroku](https://be-eco.herokuapp.com/ "Heroku Link") 
 
 
