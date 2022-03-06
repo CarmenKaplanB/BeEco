@@ -3,7 +3,7 @@ Be Eco es una plataforma digital cuyo objetivo es motivar la enseñanza ambienta
 
 
 |  2020-04-12 :leaves:
-[Ver este proyecto en Heroku](https://be-eco.herokuapp.com/ "Heroku Link") 
+[Ver este proyecto en despliegue](https://be-eco.herokuapp.com/ "Heroku Link") 
 
 #  Script del flujo de trabajo (pipeline).
 
