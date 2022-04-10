@@ -11,13 +11,13 @@ Be Eco es una plataforma digital cuyo objetivo es motivar la enseñanza ambienta
 
 GitLab tiene muchas opciones y puede resultar un poco amenazante al principio. Veremos el flujo básico para programar y las opciones necesarias según nos hagan falta. Si explico todas las funciones de golpe, lo más probable es que salgáis corriendo.  La parte central es el gestor de incidencias (issues). Una incidencia es tanto una función nueva como un reporte de bug. Tiene que incluir toda la información necesaria para realizar la tarea. La incidencia actúa como contrato y dice lo que hay que hacer. Si hay un fallo y no tiene una incidencia creada, a efectos de programación no existe. En principio cualquier usuario puede crear incidencias, siempre que lo permita la configuración del proyecto, pero es tarea del programador aceptarla o no.
 
-#  Instalación de GitLab
+#  Instalación de GitLab.
 
 ~~~
 curl https://packages.GitLab.com/install/repositories/GitLab/GitLab-ee/script.deb.sh | sudo bash
 ~~~
 
-#  Registro de GitLab Runner en Windows
+#  Registro de GitLab Runner en Windows.
 
 Descarga de Git para Windows y de datos binarios de GitLab Runner
 
